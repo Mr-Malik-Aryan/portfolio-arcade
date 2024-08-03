@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "projects": 3,
+    "cards": [
+      {
+        "no":1,
+        "name": "Fish-It",
+        "color":"#ED203D",
+        "image":"/fish-it.png",
+        "title": "Access Your Files Seamlessly on the Web ",
+        "description": "project decrept",
+        "techStack":"MERN",
+        "url": "https://github.com/Mr-Malik-Aryan/Fish-itFrontend",
+        "urlWebsite": "https://fish-it.vercel.app/",
+        "InitialCommit": " Mar 2,2024",
+        "content": "some long blabber"
+      },
+      {
+        "no":2,
+        "name": "Bits Bids",
+        "color":"#750BA9",
+        "image":"/Bits-Bids.png",
+        "title": "Get the Bidding Fever On!.Buy,Sell and Bid on used Products on campus",
+        "description": "project decrept",
+        "techStack":"Next.js,WebSocket,Socket.io",
+        "url": "https://github.com/OP22007/bitsbidslatest",
+        "urlWebsite": "https://fish-it.vercel.app/",
+        "InitialCommit": " Jun 8,2024",
+        "content": "lorem"
+      },
+      {
+        "no":3,
+        "name": "Club-Hub",
+        "color":"#0BA95C",
+        "image":"/Club-hub.png",
+        "title": "Inter-college social media app for clubs",
+        "description": "project decrept",
+        "techStack":"Next.js,WebSocket,Socket.io",
+        "url": "null",
+        "urlWebsite": "null",
+        "InitialCommit": "29 July,2024",
+        "content": "some long blabber"
+      }
+    ]
+    }
